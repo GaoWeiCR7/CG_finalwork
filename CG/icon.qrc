@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/myicon">
+        <file>images/ellipse.png</file>
+        <file>images/line.png</file>
+        <file>images/rect.png</file>
+        <file>images/polygon.PNG</file>
+        <file>images/color.png</file>
+        <file>images/c.PNG</file>
+        <file>images/r.PNG</file>
+        <file>images/s.PNG</file>
+        <file>images/t.PNG</file>
+        <file>images/curve.PNG</file>
+        <file>images/painter.PNG</file>
+    </qresource>
+</RCC>
